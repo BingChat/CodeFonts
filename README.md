@@ -3,7 +3,7 @@
 #### 1、微软的Cascadia Code字体
  * 介绍及下载页：https://github.com/microsoft/cascadia-code
  * Cascadia Code 等宽编程字体是微软最近专门为开发者和运维人员打造的全新编程字体，可以适用于各类集成开发环境、集成开发环境等，显著优化提高代码可读性
-  ![Cascadia Code字体](https://github.com/hhbart/CodeFonts/raw/master/CascadiaCode/Cascadia-Code.jpeg]
+  ![Cascadia Code字体](https://github.com/hhbart/CodeFonts/raw/master/CascadiaCode/Cascadia-Code.jpeg)
 
 #### 2、JetBrains的Mono字体
  * 介绍及下载页：https://www.jetbrains.com/lp/mono/
